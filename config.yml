@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Benedetta Muscato"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Benedetta Muscato (she/her) is a Graduate Student in Digital Humanities at the University of Catania and is currently a Ph.D. student in AI for Society at Scuola Normale Superiore under the supervision of Prof. Fosca Giannotti andGizem Gezici. Her work focuses on mitigation bias strategies in Natural Language Processing (NLP), with an emphasison designing Perspective-Aware Language Models (LLMs) that promote inclusivity and foster pluralistic alignment."
+  location         : "Pisa, Italy"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "benedetta.muscato@sns.it" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.it/citations?user=NGpfH4EAAAAJ&hl=it"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
